@@ -1,0 +1,29 @@
+Frutería: Nombre: DON CHEPE
+Frutería: Teléfono: 3320582954
+Frutería: Correo: Don.Chepe@gmail.com
+
+Empleado: 101: EMMANUEL FERNANDEZ        Sueldo: $3500.0
+Empleado: 685: ANDRE SOLORZANO           Sueldo: $4500.0
+
+Producto: 292866: MANZANA        Cantidad: 580   c/u  3.0
+Producto: 956898: MELON          Cantidad: 75    c/u  25.0
+Producto: 902421: SANDIA         Cantidad: 80    c/u  30.0
+Producto: 904213: PAPAYA         Cantidad: 58    c/u  18.0
+Producto: 515355: AGUACATE       Cantidad: 150   c/u  20.0
+Producto: 806819: NARANJA        Cantidad: 550   c/u  5.0
+Producto: 589291: LIMON          Cantidad: 721   c/u  2.0
+Producto: 933416: PERA           Cantidad: 321   c/u  7.0
+Producto: 692525: DURAZNO        Cantidad: 421   c/u  8.0
+Producto: 643920: PLATANO        Cantidad: 118   c/u  6.0
+Producto: 241051: UVA            Cantidad: 950   c/u  1.0
+Producto: 372436: LIMA           Cantidad: 210   c/u  3.0
+Producto: 990830: CIRUELA        Cantidad: 98    c/u  3.0
+Producto: 827680: COCO           Cantidad: 70    c/u  35.0
+Producto: 500226: JICAMA         Cantidad: 44    c/u  5.0
+Producto: 156548: FRESA          Cantidad: 250   c/u  2.0
+Producto: 854625: MANGO          Cantidad: 48    c/u  10.0
+Producto: 998490: GUACAMAYA      Cantidad: 0    c/u  0.9
+
+Empleado: 416: DANNA                     Sueldo: $5000.0
+
+Producto: 242308: COCA COLA      Cantidad: 3     c/u  15.5
